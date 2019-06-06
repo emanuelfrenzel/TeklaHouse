@@ -19,6 +19,12 @@ namespace TeklaHouse
             return beam;
         }
 
+        public static void AddContourPoint(this ContourPlate cp, Point p, Chamfer chamfer = null)
+        {
+            var cPoint = new ContourPoint(p, chamfer);
+            cp.AddContourPoint(cPoint);
+        }
+
         public static ContourPlate InsertPlate(ArrayList points,
             string profileString, string materialString, Chamfer chamfer = null)
         {
