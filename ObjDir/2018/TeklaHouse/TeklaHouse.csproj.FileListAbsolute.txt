@@ -1,0 +1,15 @@
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\TeklaHouse\bin\Debug\TeklaHouse.exe.config
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\TeklaHouse\bin\Debug\TeklaHouse.exe
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\TeklaHouse\bin\Debug\TeklaHouse.pdb
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\ObjDir\2018\TeklaHouse\TeklaHouse.csprojAssemblyReference.cache
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\ObjDir\2018\TeklaHouse\MainWindow.g.cs
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\ObjDir\2018\TeklaHouse\App.g.cs
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\ObjDir\2018\TeklaHouse\TeklaHouse_MarkupCompile.cache
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\ObjDir\2018\TeklaHouse\TeklaHouse_MarkupCompile.lref
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\ObjDir\2018\TeklaHouse\MainWindow.baml
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\ObjDir\2018\TeklaHouse\TeklaHouse.g.resources
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\ObjDir\2018\TeklaHouse\TeklaHouse.Properties.Resources.resources
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\ObjDir\2018\TeklaHouse\TeklaHouse.csproj.GenerateResource.cache
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\ObjDir\2018\TeklaHouse\TeklaHouse.csproj.CoreCompileInputs.cache
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\ObjDir\2018\TeklaHouse\TeklaHouse.exe
+C:\Users\frenz\OneDrive\CANAM\TeklaHouse\ObjDir\2018\TeklaHouse\TeklaHouse.pdb
